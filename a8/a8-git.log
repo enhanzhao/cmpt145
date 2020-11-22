@@ -1,0 +1,74 @@
+#a8-git.log enz889 Enhan Zhao   cmpt145
+
+commit c51ad0540b1f59cd651464d6418acc7cade1f428 (HEAD -> master)
+Author: Enhan <enhanzhao@gmail.oom>
+Date:   Thu Jul 25 04:45:18 2019 -0600
+
+    c11 completed implementation of find_path() and test file
+
+    Signed-off-by: Enhan <enhanzhao@gmail.oom>
+
+commit a81afc5e9573f73af97ca62cd85158ff3062d713
+Author: Enhan <enhanzhao@gmail.oom>
+Date:   Thu Jul 25 03:56:49 2019 -0600
+
+    c10 completed implementation for path_to() and tested
+
+    Signed-off-by: Enhan <enhanzhao@gmail.oom>
+
+commit 011b315438e946b01acf0ec907e0602a88534ceb
+Author: Enhan <enhanzhao@gmail.oom>
+Date:   Thu Jul 25 03:33:05 2019 -0600
+
+    c9, completed complete() and tested function
+
+    Signed-off-by: Enhan <enhanzhao@gmail.oom>
+
+commit 600eddcc9bce899e84479549a34839b24334cb2c
+Author: Enhan <enhanzhao@gmail.oom>
+Date:   Thu Jul 25 03:03:12 2019 -0600
+
+    c8 completed and tested mirrored(), reflect() and reflection()
+
+
+commit 621414f08cc960c1ff1f9496ba736fa09081d213 (HEAD -> master)
+Author: Enhan <enhanzhao@gmail.com>
+Date:   Tue Jul 23 01:45:23 2019 -0600
+
+    c7 implemented and tested nodes_at_level()
+
+commit 7451794ffb9a1337d69bdf776b5b5187d2712c8c
+Author: Enhan <enhanzhao@gmail.com>
+Date:   Mon Jul 22 15:16:50 2019 -0600
+
+    c6 implemented and tested copy()
+
+commit 3d73869477727178cfc386ab54ef15bb44afd0fd
+Author: Enhan <enhanzhao@gmail.com>
+Date:   Sun Jul 21 18:26:14 2019 -0600
+
+    c5. tested subst()
+
+commit 7c6c5c7fc65b7ee80673344f09b8cf0acfd0a85e
+Author: Enhan <enhanzhao@gmail.com>
+Date:   Sun Jul 21 17:53:12 2019 -0600
+
+    c4. implemented subst()
+
+commit 8c6bfffc00aaae87704a764f5dd5d5ac5abbedd1
+Author: Enhan <enhanzhao@gmail.com>
+Date:   Sun Jul 21 17:38:21 2019 -0600
+
+    c3. tested count_node_types()
+
+commit 5d69b86738339b05abc107f5396b9b441b209886
+Author: Enhan <enhanzhao@gmail.com>
+Date:   Sun Jul 21 17:27:28 2019 -0600
+
+    c2. implemented count_node_types()
+
+commit e96cc17fa0e80961a0da68e8a1c0abf2fcda9323
+Author: Enhan <enhanzhao@gmail.com>
+Date:   Sun Jul 21 16:39:49 2019 -0600
+
+    c1. Added assignment files

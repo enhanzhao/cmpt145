@@ -1,0 +1,34 @@
+#enz889 cmpt 145 assignment Enhan Zhao
+
+Question 1
+copy1() 
+	-does not make a copy, both variables have the same reference
+	-is not suitable because the original list is modified
+copy2()
+	-does make a copy by extending copied with each element in data as a list
+	-is suitable for selection sort
+copy3()
+	-does make a copy by appending each element in data to copied
+	-is suitable for selection sort. better version of copy4()
+copy4()
+	-does make a copy
+	-is not suitable: having an empty list as a function parameter is redundant because an empty list would have to be initialized before the function call
+copy5()
+	-does make a copy, does not retain the original list
+	-is not suitable because the original list is modified, and having to initalize another variable with the same data as original list is very redundant
+
+Question 2 
+1. get_data(): converted data to be appended to data in to int instead of str. added return value
+2. find_min_and_max(): deleted function and integrated it into counting()
+3. counting(): changed fsize to fsize + 1 for proper index range of frequency
+	       deleted variable assignment j, the value of d in data should be the the index of d in frequency
+4. draw_histogram(): modified for loop "for f in range(len(frequency)): so the coorisponding int value is displayed before the asterisk 
+		     deleted unused function parameters min, max from the function defination
+		     in the print statement used f as an index of frequency to multiply the asterisk 
+
+Question 4
+1. My program is long but well thought out, covering every possible detail to determine if the file contains a pascal triangle.
+2. My program is mostly efficient, on very large triangles the multiple for loops may take additional time to execute, but should be resonable for triangles of resonable size.
+3. The different sections in my program have obvious tasks. The first function reads file into a list of lists. The second one determines if its is Pascal in here the different sections are obvious. 
+4. I cannot think of any weak parts of in my code that might break. 
+5. My program took 2 days to write, roughtly 5 hours, slightly longer than expected. A lot of time was spent on making indices fit the list's range, as well as testing for missed details ex: checking first and last item in each list to be 1. Nothing suprising though.  

@@ -1,0 +1,71 @@
+#a9-git.log Enhan Zhao enz889 cmpt145
+
+Date:   Wed Jul 31 18:28:26 2019 -0600
+
+    c12 completed question 3
+
+commit 46e2f520c22c387d137534ecaef22dd94fc356ab
+Author: Enhan <enhanzhao@gmail.oom>
+Date:   Wed Jul 31 16:53:16 2019 -0600
+
+    c11 added method drop lowest grade.
+
+commit 6773c928c9b8c6fde1f0361f9b46526009b4ba37
+Author: Enhan <enhanzhao@gmail.oom>
+Date:   Wed Jul 31 16:53:02 2019 -0600
+
+    c10 changed calculate() to include final and assignments
+
+commit 5e7b04efd9e37ca0265a431b75834c0743fd8e53
+Author: Enhan <enhanzhao@gmail.oom>
+Date:   Wed Jul 31 16:52:25 2019 -0600
+
+    c9 implemented 1 and 2 in q3
+
+commit 3d87620fbe05734d245ef7e88f6162227a203fbc
+Author: Enhan <enhanzhao@gmail.oom>
+Date:   Wed Jul 31 16:51:37 2019 -0600
+
+    c8 changed q2 implementation of container super class so top and front is generalized as head.
+
+commit c2513fe5a95cae9d47dd2352b1bca29f5a859421
+Author: Enhan <enhanzhao@gmail.oom>
+Date:   Wed Jul 31 16:50:45 2019 -0600
+
+    c7 changed q1 and q2 implementation so that they are not dictionaries
+
+commit 454ecfc59c5fcc56a9cde45023f51a1df4edf6f0
+Author: Enhan <enhanzhao@gmail.oom>
+Date:   Wed Jul 31 01:53:32 2019 -0600
+
+    c6 implemented all container, queue, and stack class methods and attributes. All tests passed
+
+commit 52fca3f8f5c723de0780d51a46997ca062cb88e6
+Author: Enhan <enhanzhao@gmail.oom>
+Date:   Wed Jul 31 00:19:28 2019 -0600
+
+    c5 implemented all queue methods. all tests passed
+
+commit 87a3fad0e34c823ac6d2fb4690766441e7874519
+Author: Enhan <enhanzhao@gmail.oom>
+Date:   Tue Jul 30 15:51:52 2019 -0600
+
+    c4 implemented size(), is_empty(), enqueue() methods for queue class
+
+commit 0b06715c944da925fc26ba5ad7825c5592657edb
+Author: Enhan <enhanzhao@gmail.oom>
+Date:   Tue Jul 30 03:03:10 2019 -0600
+
+    c3 implemented all stack methods and completed testing, all passed.
+
+commit 6a7dff65e3567180dda4f42107bf51d5022de95f
+Author: Enhan <enhanzhao@gmail.oom>
+Date:   Tue Jul 30 02:35:03 2019 -0600
+
+    c2 implemented Stack attributes, size(), is_empty(), push() methods
+
+commit fd907f66782863e3fcf32cd340e2bcc1c53a0f7c
+Author: Enhan <enhanzhao@gmail.oom>
+Date:   Tue Jul 30 01:27:27 2019 -0600
+
+    c1 added ass9 files

@@ -1,0 +1,51 @@
+#a4q1_output.txt enz889 Enhan Zhao cmpt145
+#1###########################################################
+January February March April
+May June July August
+September October November December
+
+rebmetpeS rebotcO rebmevoN rebmeceD
+yaM enuJ yluJ tsuguA
+yraunaJ yraurbeF hcraM lirpA
+
+Process finished with exit code 0
+
+#2#############################################################
+Hello
+My name is Paul
+Nice to meet you!
+
+eciN ot teem !uoy
+yM eman si luaP
+olleH
+
+Process finished with exit code 0
+
+#3##########################################################
+There is no cow level.
+Operation cwal
+Show me the money$$$
+Food for thought!
+Power Overwhelming
+
+
+rewoP gnimlehwrevO
+dooF rof !thguoht
+wohS em eht $$$yenom
+noitarepO lawc
+erehT si on woc .level
+
+Process finished with exit code 0
+
+#4##############################################################
+Low numbers 12345
+54321
+High numbers 67890
+09876
+
+67890
+hgiH srebmun 09876
+12345
+woL srebmun 54321
+
+Process finished with exit code 0

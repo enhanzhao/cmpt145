@@ -1,0 +1,8 @@
+#a8q2 response enz889 Enhan Zhao cmpt145
+
+mirrored(atree, reflect(atree))
+returns True if atree is None, because reflect(atree) only modifies atree and will always return None.
+returns False if atree is not None, because None is not a mirror of any real tree.
+
+mirrored(atree, reflection(atree))
+always returns True because reflection returns a new tree that is the mirror of atree, no matter if atree is None or not.

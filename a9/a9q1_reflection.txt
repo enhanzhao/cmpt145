@@ -1,0 +1,11 @@
+#a9q1_reflection Enhan Zhao enz889 cmpt145
+
+1. queue and stack object implementation is similar for the most part, since both uses nodes to store data in FIFO and LIFO
+protocol. Methods like size(), is_empty(), peek() and to_string() are almost identical to each other.
+
+2. the difference is in push(), pop(), enqueue() and dequeue(). queue's enqueue and dequeue should consider the front and
+back node references depending on if the queue is empty, has 1 data only, or has multiple data. stack on the other hand
+only has to worry about its top value, thus push() and pop() methods have less to consider when implementing.
+
+3. The similarity between the 2 classes means problems I had for the first one is already resolved in the second one.
+I did have to experiment with how to use the Node class methods when Node is a module in a separate file.

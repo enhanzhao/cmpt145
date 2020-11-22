@@ -1,0 +1,70 @@
+#enz889 Enhan Zhao assignment 1 question 2
+
+How many data values?3
+Enter one interger only:3
+Enter one interger only:3
+Enter one interger only:3
+
+
+
+ ----------- Histogram ----------------
+
+0 
+1 
+2 
+3 ***
+>>> 
+
+How many data values?5
+Enter one interger only:3
+Enter one interger only:3
+Enter one interger only:5
+Enter one interger only:5
+Enter one interger only:7
+
+
+
+ ----------- Histogram ----------------
+
+0 
+1 
+2 
+3 **
+4 
+5 **
+6 
+7 *
+>>> 
+
+How many data values?10
+Enter one interger only:1
+Enter one interger only:1
+Enter one interger only:5
+Enter one interger only:5
+Enter one interger only:5
+Enter one interger only:7
+Enter one interger only:7
+Enter one interger only:7
+Enter one interger only:15
+Enter one interger only:15
+
+
+
+ ----------- Histogram ----------------
+
+0 
+1 **
+2 
+3 
+4 
+5 ***
+6 
+7 ***
+8 
+9 
+10 
+11 
+12 
+13 
+14 
+15 **

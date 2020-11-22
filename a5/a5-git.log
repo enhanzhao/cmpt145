@@ -1,0 +1,51 @@
+#a5-git.log enz889 Enhan Zhao   cmpt 145
+
+commit cfc06b1e71bd8ad3cdaed049a7d415091f937bb1 (HEAD -> master)
+Author: Enhan <enhanzhao@gmail.com>
+Date:   Mon Jun 17 02:00:40 2019 -0600
+
+    a5q3 insert_value_sorted() completed, passed all testing
+
+commit 6af373d47c957737af659f35324d58a30cae0b25
+Author: Enhan <enhanzhao@gmail.com>
+Date:   Mon Jun 17 00:22:27 2019 -0600
+
+    a5q3 gave up on recursive version of reverse(). Implemented first part of insert_value_sorted()
+
+commit 6e7f6e11b187eb22f744d7037174ba04e20d99c9
+Author: Enhan <enhanzhao@gmail.com>
+Date:   Sun Jun 16 23:35:45 2019 -0600
+
+    a5q3 finished implementation of check_duplicate and rreverse_chain function. passed all tests. working on recursive version of reverse_chain.
+
+commit 2502f3ee323b355db1fd378c9399038261559eba
+Author: Enhan <enhanzhao@gmail.com>
+Date:   Sun Jun 16 17:18:24 2019 -0600
+
+    a5q2 changed all code so they dont violate the Node ADT. All functions passed test.
+
+commit 49e1ea8295cdda33f56a9df399e72c25c2e9e747
+Author: Enhan <enhanzhao@gmail.com>
+Date:   Sun Jun 16 16:56:11 2019 -0600
+
+    a5q2 implemented code for replace_last(), error in test
+
+commit e0b6bb4b18a96409197b125551be814228e59840
+Author: Enhan <enhanzhao@gmail.com>
+Date:   Sun Jun 16 16:41:36 2019 -0600
+
+    a5q2 implemented code for count_chain() and delete_front_nodes. All tests passed
+
+commit 5328a1fd1eaf1bdb544cb8601ea8a96bec5641fd
+Author: Enhan <enhanzhao@gmail.com>
+Date:   Sun Jun 16 15:48:59 2019 -0600
+
+    a5q1 fixed bugs: added return value in if statement, correctly indexed dictionary
+
+commit d684338b97a38abe603dfd496fd778c3aaf9dc5a
+Author: Enhan <enhanzhao@gmail.com>
+Date:   Sun Jun 16 15:22:53 2019 -0600
+
+    assignment 5 initialized project
+
+C:\Users\Enhan\PycharmProjects\ass5>

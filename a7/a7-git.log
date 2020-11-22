@@ -1,0 +1,54 @@
+#a7-git.log enz889 Enhan Zhao cmpt 145
+commit 570b5de313bd17505672f574a6325154528839f5 (HEAD -> master)
+Author: Enhan <enhanzhao@gmail.com>
+Date:   Wed Jul 17 23:55:41 2019 -0600
+
+    c9 completed implementation and testing for q7 marioCount()
+
+commit a3e88bd5a932e6a449b4b50f7420b877218e0e03
+Author: Enhan <enhanzhao@gmail.com>
+Date:   Wed Jul 17 23:21:53 2019 -0600
+
+    c8 completed implementation and testing for replace()
+
+commit c50f95223bc8c184b01f7447e8ac5774d352b64e (HEAD -> master)
+Author: Enhan <enhanzhao@gmail.com>
+Date:   Tue Jul 16 23:36:33 2019 -0600
+
+    c7 completed implementation and testing for copy()
+
+commit 33050fa4dbb1ab96496de9409033388ff9d23e08
+Author: Enhan <enhanzhao@gmail.com>
+Date:   Tue Jul 16 22:58:21 2019 -0600
+
+    c6 completed implementation and testing for to_string()
+
+commit da54153c1c9ab6c5815423fbcbd0a1487348093c
+Author: Enhan <enhanzhao@gmail.com>
+Date:   Tue Jul 16 22:36:20 2019 -0600
+
+    c5 added question 6 file
+
+commit ddd3996595dbfdc8105910984489cec4d181cff4
+Author: Enhan <enhanzhao@gmail.com>
+Date:   Tue Jul 16 22:33:28 2019 -0600
+
+    c4 completed implementation and testing for substr() function.
+
+commit 33630c8d8e590fbdb987e61a8e53f956ded88117
+Author: Enhan <enhanzhao@gmail.com>
+Date:   Tue Jul 16 22:05:07 2019 -0600
+
+    c3 completed implementation and testing for recursive function find_moo()
+
+commit 80460b9c97b4573b3064f26768e7dfb2e40c6597
+Author: Enhan <enhanzhao@gmail.com>
+Date:   Tue Jul 16 22:04:29 2019 -0600
+
+    c2 completed implementation and testing for recursive function find_fib()
+
+commit 2b4b39a49bb1dce915ad210c79fae0436d177c8c
+Author: Enhan <enhanzhao@gmail.com>
+Date:   Tue Jul 16 22:03:41 2019 -0600
+
+    c1. added assignment files

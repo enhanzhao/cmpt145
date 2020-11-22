@@ -1,0 +1,26 @@
+# enz889 Enhan Zhao cmpt 145 assignment 2 design
+
+1. Define a function that reads a txt file that contains 9 rows of 9 intergers and returns an array that is potnetially a sudoku square. This function gets rid of any white space that is potentally hidden in the file. 
+    
+    read_file(txtfile):
+    purpose: reads a txt document containing 9 rows of 9 intergers (not including white space)into an array. white space will be wiped
+    txtfile: a text file that contains 9 rows of 9 intergers
+    post condition: nothing
+    returns: a 2d array of 9x9 int
+
+2. Define another function that analyse the 9x9 array from the previous functionto see if:
+	-the rows and the columns all contain intergers 1 - 9 once each.
+	-the 9 3x3 blocks of the 9x9 array add up to 45 (the sum of 1 to 9). Given that the rows and cols do contain  1-9 once each, the "45 rule" for solving sudoku would be applicable to the 3x3 squares
+    	-there will be 3 main loops in this function, 1 to check rows, 1 to check columns, and one to check each 3x3 squre
+    
+    check_sudoku(array9x9):
+    Purpose: checks if an array of intergers is a sudoku, with each row, column and 3x3 block containing 1 to 0 exactly once
+    array9x9: an aray of 9x9 intergers
+    post condition: nothing
+    return: Boolean value based if input is a true Sudoku
+
+3. In testing, create the following test cases:
+	-a real sudoku that test all lines of the check_sudoku() function, the return value should be True
+	-a case that test the row loop where there is a repeated value in one of the rows, the return value should be False
+	-a case that test the column loop where there is a repeated value in at least one of the columns, the return value should be False
+	-a case that test the 3x3 sum loop where one of the 3x3 squares has a 0 and does not sum to 45, the return value should be False

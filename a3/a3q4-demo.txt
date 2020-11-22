@@ -1,0 +1,167 @@
+#a3q4-demo.txt enz889 Enhan Zhao cmpt145
+
+##############################################################################################################
+####    RUN 1 40 60  ###########################
+#####################################################
+Initial Statistics---------------------------------
+    Number of Sequences: 25
+    Average GC content: 45.22
+    Average Sequence Length: 185
+    Sequence Length Distribution:
+       Length : Number of Sequences
+          270 : 2
+          46 : 1
+          191 : 1
+          93 : 1
+          42 : 1
+          180 : 1
+          160 : 1
+          90 : 1
+          450 : 1
+          75 : 1
+          56 : 1
+          41 : 2
+          215 : 1
+          38 : 1
+          515 : 1
+          214 : 1
+          62 : 1
+          163 : 1
+          15 : 1
+          21 : 1
+          862 : 1
+          389 : 1
+          144 : 1
+Removing Sequences with GC content below 40 or above 60
+Updated Statistics-------------------
+    Number of Sequences: 13
+    Average GC content: 53.06
+    Average Sequence Length: 190
+    Sequence Length Distribution:
+       Length : Number of Sequences
+          270 : 2
+          191 : 1
+          93 : 1
+          180 : 1
+          160 : 1
+          90 : 1
+          75 : 1
+          56 : 1
+          215 : 1
+          515 : 1
+          214 : 1
+          144 : 1
+
+Process finished with exit code 0
+
+##############################################################################################################
+####    RUN 2  10 90 ###########################
+#####################################################
+
+Initial Statistics---------------------------------
+    Number of Sequences: 25
+    Average GC content: 45.22
+    Average Sequence Length: 185
+    Sequence Length Distribution:
+       Length : Number of Sequences
+          270 : 2
+          46 : 1
+          191 : 1
+          93 : 1
+          42 : 1
+          180 : 1
+          160 : 1
+          90 : 1
+          450 : 1
+          75 : 1
+          56 : 1
+          41 : 2
+          215 : 1
+          38 : 1
+          515 : 1
+          214 : 1
+          62 : 1
+          163 : 1
+          15 : 1
+          21 : 1
+          862 : 1
+          389 : 1
+          144 : 1
+Removing Sequences with GC content below 10 or above 90
+Updated Statistics-------------------
+    Number of Sequences: 25
+    Average GC content: 45.22
+    Average Sequence Length: 185
+    Sequence Length Distribution:
+       Length : Number of Sequences
+          270 : 2
+          46 : 1
+          191 : 1
+          93 : 1
+          42 : 1
+          180 : 1
+          160 : 1
+          90 : 1
+          450 : 1
+          75 : 1
+          56 : 1
+          41 : 2
+          215 : 1
+          38 : 1
+          515 : 1
+          214 : 1
+          62 : 1
+          163 : 1
+          15 : 1
+          21 : 1
+          862 : 1
+          389 : 1
+          144 : 1
+
+Process finished with exit code 0
+
+##############################################################################################################
+####    RUN 3  48 52 ###########################
+#####################################################
+
+Initial Statistics---------------------------------
+    Number of Sequences: 25
+    Average GC content: 45.22
+    Average Sequence Length: 185
+    Sequence Length Distribution:
+       Length : Number of Sequences
+          270 : 2
+          46 : 1
+          191 : 1
+          93 : 1
+          42 : 1
+          180 : 1
+          160 : 1
+          90 : 1
+          450 : 1
+          75 : 1
+          56 : 1
+          41 : 2
+          215 : 1
+          38 : 1
+          515 : 1
+          214 : 1
+          62 : 1
+          163 : 1
+          15 : 1
+          21 : 1
+          862 : 1
+          389 : 1
+          144 : 1
+Removing Sequences with GC content below 48 or above 52
+Updated Statistics-------------------
+    Number of Sequences: 3
+    Average GC content: 51.28
+    Average Sequence Length: 303
+    Sequence Length Distribution:
+       Length : Number of Sequences
+          180 : 1
+          515 : 1
+          214 : 1
+
+Process finished with exit code 0

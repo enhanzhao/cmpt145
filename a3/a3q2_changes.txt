@@ -1,0 +1,4 @@
+#a3q2_changes enz889	Enhan Zhao cmpt145
+
+1. Initialized a list "values" to store data values to be added in the create() function.
+2. Appends added values to the value list in the add() function. Max and min is taken from this list.

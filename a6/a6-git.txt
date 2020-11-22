@@ -1,0 +1,109 @@
+#a6-git.log enz889 Enhan Zhao cmpt 145
+
+commit c4ca56ffe78720330e7d1eadcbe01759d5095d6d (HEAD -> master)
+Author: Enhan <enhanzhao@gmail.com>
+Date:   Mon Jul 8 18:23:05 2019 -0600
+
+    18th commit. delete_item_at_index() finished adding code for all other cases, completed implementation and testing. All tests have passed.
+
+commit 004405e963b50797bfabc5308ef1fa01b17de41d
+Author: Enhan <enhanzhao@gmail.com>
+Date:   Mon Jul 8 17:53:15 2019 -0600
+
+    17th commit. delete_item_at_index()added conditional for invalid index. Added code for removing from front, removing from back.
+
+commit 959c707d58fa2433871e18f163bab94ac9776926
+Author: Enhan <enhanzhao@gmail.com>
+Date:   Mon Jul 8 17:48:09 2019 -0600
+
+    16th commit. insert_value_at_index() completed implementation and testing for function. All test passed
+
+commit d1e103a631ac68bb99fcc8a5dd58a475373906c7
+Author: Enhan <enhanzhao@gmail.com>
+Date:   Mon Jul 8 17:36:19 2019 -0600
+
+    15th commit. insert_value_at_index() debugged and found bug: called add_to_front() with 1 less parameter
+
+commit 8f721ccf51e7b5ab71de5081ad5836a93a42bb03
+Author: Enhan <enhanzhao@gmail.com>
+Date:   Mon Jul 8 17:15:25 2019 -0600
+
+    14th commit. insert_value_at_index() added conditional if list is empty, if adding to front, and if adding to rear.
+
+commit 66f285632f86e8ff8d789693e16cc7eade4a6f0a
+Author: Enhan <enhanzhao@gmail.com>
+Date:   Mon Jul 8 17:10:39 2019 -0600
+
+    13th commit. insert_value_at_index() added conditional if index is not valid
+
+commit 4929f570183e0bf03094a59afcdfb540e3ba4404
+Author: Enhan <enhanzhao@gmail.com>
+Date:   Mon Jul 8 17:07:53 2019 -0600
+
+    12th commit. implemented and tested remove_from_back().
+
+commit 94ef031944615e8ea2f021c3ff5f834121c9c80a
+Author: Enhan <enhanzhao@gmail.com>
+Date:   Mon Jul 8 16:52:04 2019 -0600
+
+    11th commit. implemented and tested remove_from_front()
+
+commit f5a6408d4a103ed9ac2f461695396b40eab47179
+Author: Enhan <enhanzhao@gmail.com>
+Date:   Mon Jul 8 16:44:51 2019 -0600
+
+    9th commit. implemented and tested set_data_at_index()
+
+commit 0e0f90880c19847f7490496f924159ba1491a63a
+Author: Enhan <enhanzhao@gmail.com>
+Date:   Mon Jul 8 16:31:29 2019 -0600
+
+    9th commit. implemented and tested retrieve_data_at_index()
+
+commit 9c5aa47d8d9c9ac26e4d0f931a99a7b02b3f54c1
+Author: Enhan <enhanzhao@gmail.com>
+Date:   Mon Jul 8 16:13:51 2019 -0600
+
+    8th commit. implemented and tested get_index_of_value()
+
+commit caeabc30d012275b987124e4216c8e88311797f5
+Author: Enhan <enhanzhao@gmail.com>
+Date:   Mon Jul 8 15:58:46 2019 -0600
+
+    7th commit. implemented code on get_index_of_value() if alist is empty
+
+commit 650394770fdbf32e24046b81994b1c1016ff7e1d
+Author: Enhan <enhanzhao@gmail.com>
+Date:   Mon Jul 8 15:45:58 2019 -0600
+
+    6th commit. completed implementation and testing on value_is_in()
+
+commit 817bda77f45beb47e5cbb2bde79e35b86a17f75f
+Author: Enhan <enhanzhao@gmail.com>
+Date:   Mon Jul 8 15:33:20 2019 -0600
+
+    fifth commit. completed implementation and testing on add_to_back
+
+commit dca7e5b2895e60f7cdcdb4de369d80f23b4c29d4
+Author: Enhan <enhanzhao@gmail.com>
+Date:   Mon Jul 8 15:20:52 2019 -0600
+
+    fourth commit. completed implementation and testing on add_to_front()
+
+commit f8c6d0dd93ef222bf9a70aad0645255425f80b5b
+Author: Enhan <enhanzhao@gmail.com>
+Date:   Mon Jul 8 15:09:17 2019 -0600
+
+    third commit. completed implementation and testing on size()
+
+commit 466bc6744fdc2bef9c2aa262f77d88e775bf684b
+Author: Enhan <enhanzhao@gmail.com>
+Date:   Mon Jul 8 15:03:39 2019 -0600
+
+    second commit. completed implementation and testing on is_empty()
+
+commit ec8413328dbb4ba0783d2710d1d1d2389c915d5d
+Author: Enhan <enhanzhao@gmail.com>
+Date:   Mon Jul 8 15:00:55 2019 -0600
+
+    first commit. Added files

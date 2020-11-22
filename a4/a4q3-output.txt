@@ -1,0 +1,15 @@
+#a4q3-output enz889 Enhan Zhao cmpt145
+
+
+
+Welcome to calculator!
+Input math expression with brackets around each operation( 1 + 1 )
+2.0
+Enter another expression( 5 * 5 )
+25.0
+Enter another expression( ( ( ( 1 + 1 ) *  3 ) - 2 ) / 2 )
+2.0
+Enter another expressionquit
+Thank you for using calculator!
+
+Process finished with exit code 0

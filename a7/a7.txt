@@ -1,0 +1,43 @@
+#a7.txt enz889 Enhan Zhao cmpt 145
+
+Question 1
+1. f(n) = O(200^n)
+2. f(n) = O(n^8)
+3. f(n) = O(n!)
+4. f(n) = O((n^3)*log(n))
+5. f(n) = O(n^4.123)
+
+Question 2
+1. O(n)
+2. O(n^2)
+3. O(m * logN)
+4. O(n * m!)
+
+Question 3
+a. O(n^2) This is a nested loop with dependent limits. The cost of both loops is (n(n+1))/2
+b. O(n^2) Same as question a, nested loop with dependent limits.
+c. O(n * log(n)) The last line makes the while loop execute log2N times and out side loop is O(n)
+
+Question 4
+Best case: if the case is closed: O(1)
+
+Worst case: if case is not closed, O(NM) we have to step through closed_cases and case["keywords"] regardless of what
+happens to see if anything match the keyword.
+
+Input size: list case["keywords"] (N), list closed_cases (M). Both are unknown.
+
+Verdict: Larry kind of sucks. Larry is only correct if the case is closed: the function will have O(1) if the case is
+closed. However if the case is not closed, length of case["keywords"] and length of closed_cases is arbitrary.
+In line 27, 28, the cost of independent nested loop would be O(N)*O(M) = O(NM)
+
+Question 7
+b.  6
+    20
+    167960
+
+c. the base case is when either a or b is length 1. When that happens, there is only 1 path that mario can take,
+regardless of what the other value is.
+
+d. the problem size is made smaller by recursively calling the function on both a-1 and b-1 and summing the result.
+This will eliminate one row or column of the dimension. Each recursive call will return the number of combinations
+as one side of the room approaches 1.

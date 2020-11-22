@@ -1,0 +1,93 @@
+#a4-git enz889 Enhan Zhao cmpt145
+
+
+C:\Users\Enhan\PycharmProjects\ass4>git --no-pager log
+commit 3d34eeaa42d675151d0b6c3eb9566899486eeb0e (HEAD -> master)
+Author: Enhan <enhanzhao@gmail.com>
+Date:   Tue Jun 11 02:12:20 2019 -0600
+
+    a4q4 implementation of FCQueue passed fcqtest driver with no errors.
+
+commit 8fa287c43c9f75912feea3d60df5953ecf070146
+Author: Enhan <enhanzhao@gmail.com>
+Date:   Tue Jun 11 00:57:31 2019 -0600
+
+    a4q3 completed REPL and output file with demonstration
+
+commit 9ae77b040589758ccf7c0aa03289a610d9cc9d65
+Author: Enhan <enhanzhao@gmail.com>
+Date:   Tue Jun 11 00:35:59 2019 -0600
+
+    a4q2_test completed test driver with no bugs in output
+
+commit 8b777c1681bfe0bc5941dec14d0b9fc8548fb836
+Author: Enhan <enhanzhao@gmail.com>
+Date:   Mon Jun 10 23:59:23 2019 -0600
+
+    a4q2_test established skeletal frame for test driver
+
+commit c6bf2e0ee7014d744abc921c67e12cd5414b1a41
+Author: Enhan <enhanzhao@gmail.com>
+Date:   Mon Jun 10 22:56:01 2019 -0600
+
+    a4q2 finished working main function.
+
+commit fde40fd15df5da8333b390493d02fa52202d33ff
+Author: Enhan <enhanzhao@gmail.com>
+Date:   Mon Jun 10 15:23:18 2019 -0600
+
+    a4q2 began coding the main function
+
+commit 32a89c77fbfb98c4c1c3c3c866718118bf14661c
+Author: Enhan <enhanzhao@gmail.com>
+Date:   Mon Jun 10 15:02:21 2019 -0600
+
+    Changed display_reversed() so that there is no space added at the end of each line
+
+commit 51099fded50c460dd6beba295a392f0f05514ac7
+Author: Enhan <enhanzhao@gmail.com>
+Date:   Sun Jun 9 23:36:32 2019 -0600
+
+    Implemented integration testing for main functions. Found bug in reverse_letters(), where each line in output has a space at the end.
+
+commit 90c3f6a4a9aa4c4de4273b04365ac28df738da8e
+Author: Enhan <enhanzhao@gmail.com>
+Date:   Sun Jun 9 23:04:17 2019 -0600
+
+    Changed reverse_lines() and reverse_letters() so that both functions take and returns a list of strings for ease of testing. Implemented unit test for said functions.
+
+commit a203a8e9a8dbcc31864af3ce76361a162d1d8e21
+Author: Enhan <enhanzhao@gmail.com>
+Date:   Sun Jun 9 20:47:20 2019 -0600
+
+    Deleted all hard coded implementations and made functions into ADT format
+
+commit 913b181370a5afa7902ff502e1185bd526de04e7
+Author: Enhan <enhanzhao@gmail.com>
+Date:   Sun Jun 9 20:35:13 2019 -0600
+
+    Implemented working hard code versions of the final function reverse_letter(), as well as the print function.
+
+commit 953326f95a2fcae79ab301b20febb47c83fc39ed
+Author: Enhan <enhanzhao@gmail.com>
+Date:   Sun Jun 9 20:02:11 2019 -0600
+
+    wrote hard code version of reverse_letter() to be implemented later. currently returning only the first letter of each word.
+
+commit 6fc47412de2cf729086821fca000f80df1a4e9b5
+Author: Enhan <enhanzhao@gmail.com>
+Date:   Sun Jun 9 18:55:47 2019 -0600
+
+    changed implementation into 2 seperate functions open_line() and stack_reverse_queue()
+
+commit b5f6d4846bc7fb1b5ea3db3597e84cfbe21acb24
+Author: Enhan <enhanzhao@gmail.com>
+Date:   Sun Jun 9 18:34:56 2019 -0600
+
+    added file reading, commented design plan, implemented stacks  to reverse lines in file.
+
+commit e5b8ca0e9b7c85b044c941b9898148ab954aaac9
+Author: Enhan <enhanzhao@gmail.com>
+Date:   Sun Jun 9 17:49:58 2019 -0600
+
+    start of assignment 4, added given files

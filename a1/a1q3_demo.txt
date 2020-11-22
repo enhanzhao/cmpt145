@@ -1,0 +1,29 @@
+#enz889 Enhan Zhao assignment 1 question 3 demo
+
+input here is the output from the function read_file(), which is then passed into if_pascal() as the parameter
+each input is potentially a pascal triangle that dests the if_pascal() function
+
+test1_isnot = [[7], [1], [1, 1], [1, 2, 1], [1, 3, 3, 1], [1, 4, 6, 4, 1], [1, 5, 10, 10, 5, 1], [1, 6, 16, 20, 16, 6, 1]]
+the evidence is not a real Pascal Triangle, NOT GUILTY!
+
+test2_isnot = [[1, 6, 15, 20, 15, 6, 1], [1, 5, 10, 10, 5, 1], [1, 4, 6, 4, 1], [1, 3, 3, 1], [1, 2, 1], [1, 1], [1], [1, 1], [1, 2, 1], [1, 3, 3, 1], [1, 4, 6, 4, 1], [1, 5, 10, 10, 5, 1], [1, 6, 15, 20, 15, 6, 1]]
+the evidence is not a real Pascal Triangle, NOT GUILTY!
+
+test3_isnot = [[1], [1, 1], [1, 2, 1], [1, 3, 3, 1], [1, 4, 6, 4, 1], [1, 5, 10, 10, 5, 1], [1, 6, 15, 20, 15, 6, 2]]
+the evidence is not a real Pascal Triangle, NOT GUILTY!
+
+test4_is = [[1], [1, 1], [1, 2, 1], [1, 3, 3, 1], [1, 4, 6, 4, 1], [1, 5, 10, 10, 5, 1], [1, 6, 15, 20, 15, 6, 1]]
+the evidence is a real Pascal Triangle, GUILTY!
+
+test5_is = [[],[1], [1, 1], [1, 2, 1], [1, 3, 3, 1], [], [1, 4, 6, 4, 1], [], [1, 5, 10, 10, 5, 1], [], [1, 6, 15, 20, 15, 6, 1], []]
+the evidence is a real Pascal Triangle, GUILTY!
+
+test6_is = [[1], [1, 1], [1, 2, 1], [1, 3, 3, 1], [1, 4, 6, 4, 1], [1, 5, 10, 10, 5, 1], [1, 6, 15, 20, 15, 6, 1], [1, 7, 21, 35, 35, 21, 7, 1], [1, 8, 28, 56, 70, 56, 28, 8, 1], [1, 9, 36, 84, 126, 126, 84, 36, 9, 1]]
+the evidence is a real Pascal Triangle, GUILTY!
+
+
+EvidenceTriangle.txt:
+Input: [[7], [1], [1, 1], [1, 2, 1], [1, 3, 3, 1], [1, 4, 6, 4, 1], [1, 5, 10, 10, 5, 1], [1, 6, 16, 20, 16, 6, 1]]
+Output: the evidence is not a real Pascal Triangle, NOT GUILTY!
+
+Process finished with exit code 0

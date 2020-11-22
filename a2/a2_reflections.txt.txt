@@ -1,0 +1,13 @@
+# enz889 Enhan Zhao cmpt 145 assignment 2 reflection
+
+1. I used a combination of both strategies. Once I have an idea of what problems needed to be solved, I designed the loops in the main function like sub functions so that they can be tested easily.
+
+2. Not too much plan was spent on design, the problem to be solved is not extremely complicated. My application was planned for the most part acceptabally well.
+	One problem was unexpected: when reading example files, there were white space at the end of the txt file that resulted in empty lists, making the size of the array more than 9. 
+	There were no functions that I need to create other than my main check_sudoku() function.
+3. I estimated the implementaton stage to not take very long since I only have 1 main function after the read_file() function.
+	What I estimated was roughly the same as the time I took to implement the different sections of my main function.
+4. My test did not find errors in my functions after testing nor during the verificaion stage.
+	I spend less time debugging than writting the function. It is easier to test when I was certain of the tasks each loop in the function. 
+5. I have spent roughtly 6 hours in total to write the program and to implement the test driver. 
+	For a novice coder like myself, it is roughtly what I expect, as it is easy for me to run into a problem and be stuck on it for some time. 
